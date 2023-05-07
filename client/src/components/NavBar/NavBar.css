@@ -1,0 +1,10 @@
+.maincontainer{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: rgba(0, 0, 0, 0.514);
+    padding-right: 20px;
+    height: 100px;
+
+    
+}
